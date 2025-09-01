@@ -5,3 +5,4 @@ bundle.js
 .env
 .DS_Store
 .localenv
+config.json
